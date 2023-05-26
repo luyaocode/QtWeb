@@ -1,2 +1,2 @@
 # xiaoeYu
-Desktop Application and android apk named xiaoeYu Implemented with QT
+This desktop application is an embedded web browser designed specifically for accessing and viewing the "xiaoeYu" web page. It provides a user-friendly interface that allows users to conveniently access and browse the content of the "xiaoeYu" web page in the form of a desktop application.
